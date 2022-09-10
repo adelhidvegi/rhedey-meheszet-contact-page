@@ -6,11 +6,12 @@
 
 .App {
   font-size: 1rem;
-  background: linear-gradient(0.25turn, #fbf3d8, white, #fbf3d8);
+  background: #fffae9;
+  /* linear-gradient(0.25turn, #fbf3d8, white, #fbf3d8); */
   /*  font-family: "Source Serif Pro", serif;*/
 }
 
-/* ----- Navbar ---- */
+/* --------- Navbar -------- */
 
 .navbar-container {
   height: 12.5rem;
@@ -74,7 +75,7 @@
   transform: scale(1, 1);
 }
 
-/* ----- Contact ----- */
+/* --------- Contact --------- */
 
 .contact-page-container {
   display: flex;
@@ -123,16 +124,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  /* width: 4rem;
-  height: 4rem;
-  border-radius: 50%;
-  box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.5);
-  background: linear-gradient(to bottom right, #fbf3d8, #e1951b);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: absolute;
-  left: -1rem; */
 }
 
 iframe {
@@ -226,8 +217,8 @@ iframe {
 
 #send-button {
   grid-area: button;
-  width: 150px;
-  height: 40px;
+  width: 9rem;
+  padding: 0.6rem;
   margin: auto;
   border-radius: 1.3rem;
   font-size: 1rem;
@@ -241,7 +232,7 @@ iframe {
   background-color: white;
 }
 
-/* ----- Footer ---- */
+/* --------- Footer -------- */
 
 .footer-container {
   width: 100%;
@@ -269,7 +260,7 @@ footer {
 
 @media screen and (max-width: 450px) {
   #contact-header {
-    font-size: 1.7rem;
+    font-size: 1.5rem;
   }
 
   .contact-page-container {
@@ -277,8 +268,9 @@ footer {
     margin: 0;
   }
   .contact-card-container {
-    max-width: 21rem;
-    font-size: 0.9rem;
+    max-width: 20rem;
+    height: 2.7rem;
+    font-size: 0.8rem;
   }
 
   iframe {
@@ -296,7 +288,7 @@ footer {
   }
 
   #form-h1 {
-    font-size: 1.7rem;
+    font-size: 1.5rem;
   }
 
   .footer-container {
@@ -317,7 +309,7 @@ footer {
   }
 
   .contact-form-container {
-    width: 90%;
+    width: 85%;
   }
 
   .form-container {
@@ -326,6 +318,9 @@ footer {
 
   .footer-container {
     text-align: center;
+  }
+  footer {
+    padding: 2rem;
   }
 }
 
