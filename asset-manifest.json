@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/rhedey-meheszet-contact-page/static/css/main.883d0bf9.css",
+    "main.css": "/rhedey-meheszet-contact-page/static/css/main.461a5f26.css",
     "main.js": "/rhedey-meheszet-contact-page/static/js/main.e42fc61f.js",
     "static/js/787.9f9bea23.chunk.js": "/rhedey-meheszet-contact-page/static/js/787.9f9bea23.chunk.js",
     "static/media/sarah-janes-tjiP6f7QiOs-unsplash.jpg": "/rhedey-meheszet-contact-page/static/media/sarah-janes-tjiP6f7QiOs-unsplash.5633eebe99cda1bddbcb.jpg",
     "index.html": "/rhedey-meheszet-contact-page/index.html",
-    "main.883d0bf9.css.map": "/rhedey-meheszet-contact-page/static/css/main.883d0bf9.css.map",
+    "main.461a5f26.css.map": "/rhedey-meheszet-contact-page/static/css/main.461a5f26.css.map",
     "main.e42fc61f.js.map": "/rhedey-meheszet-contact-page/static/js/main.e42fc61f.js.map",
     "787.9f9bea23.chunk.js.map": "/rhedey-meheszet-contact-page/static/js/787.9f9bea23.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.883d0bf9.css",
+    "static/css/main.461a5f26.css",
     "static/js/main.e42fc61f.js"
   ]
 }
